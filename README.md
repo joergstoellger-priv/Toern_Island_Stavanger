@@ -37,5 +37,5 @@ Für Feedback, Screenshots oder Ergänzungen → Pull Request oder Nachricht an 
 
 ---
 
-**Viel Spaß beim Nachverfolgen des Törns und fair winds!**  
+**Viel Spaß beim Nachverfolgen des Törns und fair winds and following seas!**  
 🧭⛵🌊
