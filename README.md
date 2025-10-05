@@ -1,41 +1,63 @@
-# 🗺️ Interaktive Törnkarte – Island nach Stavanger
+
+# Törn Island – Stavanger (Fotogalerie)
+
+Willkommen zur multimedialen Dokumentation des Segeltörns von Island nach Norwegen (Stavanger).  
+Diese Seite enthält eine Galerie mit Bildern, Videos und Musik, die diesen außergewöhnlichen Törn festhalten.
+
+🗺️ Interaktive Törnkarte – Island nach Stavanger
 
 Willkommen im Repository zur interaktiven Route unseres Offshore-Törns von Island über die Färöer und Shetland nach Norwegen (Stavanger).
+🌍 Live-Karte ansehen
 
-## 🌍 Live-Karte ansehen
+➡️ Zur interaktiven Karte (HTML)
+(öffnet im Browser, zoombar & klickbar)
 
-➡️ **[Zur interaktiven Karte (HTML)](https://joergstoellger-priv.github.io/Toern_Island_Stavanger/Toernkarte_Interaktiv_FINAL.html)**  
-*(öffnet im Browser, zoombar & klickbar)*
+    Kein Download notwendig – einfach öffnen und navigieren!
 
-> Kein Download notwendig – einfach öffnen und navigieren!
-
-## 📌 Route
+📌 Route
 
 Die Karte basiert auf echten GPS-Daten aus dem Törn im Sommer 2025. Sie zeigt:
 
-- 🟢 Start: Südküste Islands (Porlakshöfn)
-- 🔵 Etappen über Färöer, Shetland
-- 🔴 Ziel: Stavanger, Norwegen
+    🟢 Start: Südküste Islands (Porlakshöfn)
+    🔵 Etappen über Färöer, Shetland
+    🔴 Ziel: Stavanger, Norwegen
 
-## 🛠️ Technische Infos
 
-- Format: `.html` mit eingebetteter Leaflet.js-Karte
-- Quelle: GPX-Track konvertiert mit [Folium](https://python-visualization.github.io/folium/)
-- Hintergrund: OpenStreetMap
+## 📁 Projektstruktur
 
-## ⚓ Crew & Nutzung
+```
+/Toern_Island_Stavanger/
+│
+├── index.html               # Hauptseite mit Galerie & Lightbox
+├── /media/                  # Ordner für alle Medien
+│   ├── *.jpg                # Bilder
+│   ├── *.mp4                # Videos
+│   └── background.mp3       # GEMA-freie Hintergrundmusik (optional)
+```
 
-Diese Karte darf gerne innerhalb der Crew geteilt werden.  
-Für Feedback, Screenshots oder Ergänzungen → Pull Request oder Nachricht an den Repository-Owner.
+## 🔧 Verwendung
 
-## 📂 Dateiübersicht
+1. Lege alle Bild- und Videodateien in den Ordner `media/`.
+2. Öffne `index.html` im Browser oder hoste das Projekt über z. B. [GitHub Pages](https://pages.github.com/).
+3. Um Musik hinzuzufügen, speichere deine GEMA-freie MP3-Datei als `background.mp3` im `media/`-Verzeichnis.
 
-| Datei                              | Beschreibung                           |
-|------------------------------------|----------------------------------------|
-| `Toernkarte_Interaktiv_FINAL.html` | Interaktive Karte mit GPX-Track        |
-| `README.md`                        | Diese Beschreibung                     |
+## 🌐 Technologien
+
+- HTML5 & CSS3
+- [PhotoSwipe 5](https://photoswipe.com/) (Lightbox für Bilder)
+- Native `<video>`- und `<audio>`-Tags für Medienwiedergabe
+- Responsive Grid-Layout für flexible Darstellung
+
+## 🧪 Vorschau
+
+Die Galerie ist vollständig responsive und für Mobilgeräte optimiert.  
+Einfach im Browser öffnen oder online veröffentlichen.
+
+## 🛟 Hinweis
+
+Dieses Projekt ist rein privat und dokumentarisch.  
+Alle Medien stammen vom Crewmitglied Jörg Stöllger und Mitreisenden des Törns 2025.
 
 ---
 
-**Viel Spaß beim Nachverfolgen des Törns und fair winds and following seas!**  
-🧭⛵🌊
+**Viel Freude beim Durchstöbern der Eindrücke!**
