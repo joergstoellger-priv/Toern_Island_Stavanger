@@ -22,25 +22,6 @@ Die Karte basiert auf echten GPS-Daten aus dem Törn im Sommer 2025. Sie zeigt:
     🔵 Etappen über Färöer, Shetland
     🔴 Ziel: Stavanger, Norwegen
 
-
-## 📁 Projektstruktur
-
-```
-/Toern_Island_Stavanger/
-│
-├── index.html               # Hauptseite mit Galerie & Lightbox
-├── /media/                  # Ordner für alle Medien
-│   ├── *.jpg                # Bilder
-│   ├── *.mp4                # Videos
-│   └── background.mp3       # GEMA-freie Hintergrundmusik (optional)
-```
-
-## 🔧 Verwendung
-
-1. Lege alle Bild- und Videodateien in den Ordner `media/`.
-2. Öffne `index.html` im Browser oder hoste das Projekt über z. B. [GitHub Pages](https://pages.github.com/).
-3. Um Musik hinzuzufügen, speichere deine GEMA-freie MP3-Datei als `background.mp3` im `media/`-Verzeichnis.
-
 ## 🌐 Technologien
 
 - HTML5 & CSS3
@@ -57,6 +38,18 @@ Einfach im Browser öffnen oder online veröffentlichen.
 
 Dieses Projekt ist rein privat und dokumentarisch.  
 Alle Medien stammen vom Crewmitglied Jörg Stöllger und Mitreisenden des Törns 2025.
+
+## 📁 Projektstruktur
+
+```
+/Toern_Island_Stavanger/
+│
+├── index.html               # Hauptseite mit Galerie & Lightbox
+├── /media/                  # Ordner für alle Medien
+│   ├── *.jpg                # Bilder
+│   ├── *.mp4                # Videos
+│   └── background.mp3       # GEMA-freie Hintergrundmusik (optional)
+```
 
 ---
 
