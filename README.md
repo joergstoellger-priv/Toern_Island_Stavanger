@@ -1,5 +1,5 @@
 
-# Törn Island – Stavanger (Fotogalerie)
+# Törn Island – Stavanger
 
 Willkommen zur multimedialen Dokumentation des Segeltörns von Island nach Norwegen (Stavanger).  
 Diese Seite enthält eine Galerie mit Bildern, Videos und Musik, die diesen außergewöhnlichen Törn festhalten.
